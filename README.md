@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&color=F2F72F&background=0A0B01&vCenter=true&width=900&height=200&lines=Hey!+Myself+Yatharth+Verma;I+am+what+you+call+is+a+Developer+of+all+sorts)](https://git.io/typing-svg)
+
 ### Let me introduce myself :
 
 - 🎓 I graduated from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
@@ -74,12 +76,6 @@
   src="https://img.icons8.com/fluent/144/000000/github.png"/>
   <img align="left" alt="VueJs" width="40px" 
   src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
-  <img align="left" alt="Express.js" width="40px" 
-  src="https://www.mementotech.in/assets/images/icons/express.png"/>
-  <img align="left" alt="React.js" width="40px" 
-  src="https://jasonpallone.com/React-icon.png"/>
-  <img align="left" alt="Node.js" width="40px"
-  src="https://www.brainfuel.io/images/node-js-new.png"/>
   
 
   <br />
