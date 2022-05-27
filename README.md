@@ -73,7 +73,7 @@
   <img align="left" alt="Github" width="40px" 
   src="https://img.icons8.com/fluent/144/000000/github.png"/>
   <img align="left" alt="VueJs" width="40px" 
-  src="[https://img.icons8.com/color/240/000000/mongodb.png](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png)"/>
+  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
   <img align="left" alt="Express.js" width="40px" 
   src="https://www.mementotech.in/assets/images/icons/express.png"/>
   <img align="left" alt="React.js" width="40px" 
