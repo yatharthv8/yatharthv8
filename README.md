@@ -72,9 +72,9 @@
 
   <img align="left" alt="VueJs" width="40px" 
   src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
-  <img align="left" alt="Truffle" width="40px" 
+  <img align="left" alt="Truffle" 
   src="https://api.iconify.design/logos/truffle-icon.svg?width=40&height=40"/>
-  <img align="left" alt="Ganache" width="40px" 
+  <img align="left" alt="Ganache"
   src="https://api.iconify.design/logos/ganache-icon.svg?width=40&height=40;"/>                                                                      
   <img align="left" alt="Linux" width="40px" 
   src="https://img.icons8.com/color/144/000000/linux.png"/>                                                       
