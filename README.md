@@ -77,7 +77,7 @@
   <img align="left" alt="Ganache"
   src="https://api.iconify.design/logos/ganache-icon.svg?width=40&height=40;"/>   
   <img align="left" alt="Github" width="40px" 
-  src="https://img.icons8.com/fluent/144/000000/github.png"/>                                                                           
+  src="https://api.iconify.design/logos/github-icon.svg?width=40&height=40"/>                                                                           
   <img align="left" alt="Linux" width="40px" 
   src="https://api.iconify.design/logos/linux-tux.svg?width=40&height=40"/>                                                          
   
