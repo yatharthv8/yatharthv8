@@ -75,7 +75,7 @@
   <img align="left" alt="Truffle" 
   src="https://api.iconify.design/logos/truffle-icon.svg?width=40&height=40"/> 
   <img align="left" alt="Ganache"
-  src="https://api.iconify.design/logos/ganache-icon.svg?width=40&height=40;"/>   
+  src="https://api.iconify.design/logos/ganache-icon.svg?width=40&height=40"/>   
   <img align="left" alt="Github" 
   src="https://api.iconify.design/logos/github-icon.svg?width=40&height=40"/>                                                                           
   <img align="left" alt="Linux" 
