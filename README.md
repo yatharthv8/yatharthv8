@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&color=F2F72F&background=0A0B01&vCenter=true&width=900&height=200&lines=<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>+Hey!+Myself+Yatharth+Verma;I+am+what+you+call+:+a+Developer+of+all+sorts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&color=F2F72F&background=0A0B01&vCenter=true&width=900&height=200&lines=Hey!+Myself+Yatharth+Verma;I+am+what+you+call+:+a+Developer+of+all+sorts)](https://git.io/typing-svg)
 
-### Let me introduce myself :
+### Let me introduce myself <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>:
 
 - 🎓 I graduated from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
 - 📚 What do I beleive? Jack of all, Master of some
