@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&color=F2F72F&background=0A0B01&vCenter=true&width=900&height=200&lines=Hey!+Myself+Yatharth+Verma;I+am+what+you+call+is+a+Developer+of+all+sorts)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&color=F2F72F&background=0A0B01&vCenter=true&width=900&height=200&lines=Hey!+Myself+Yatharth+Verma;I+am+what+you+call+:+a+Developer+of+all+sorts)](https://git.io/typing-svg)
 
 ### Let me introduce myself :
 
 - 🎓 I graduated from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
 - 📚 What do I beleive? Jack of all, Master of some
 - 😎 Motto: You can never Lose, you can either Win or Learn.
-- 💻 I am a Web/Software Developer. I am also a Blockchain enthusiast.
+- 💻 I am a Web/Blockchain Developer. I am also a Machine and Deep Learning enthusiast.
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer.
 - 🎹 I am also a little bit of a pianist as well.
 
