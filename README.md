@@ -3,7 +3,7 @@
 ### Let me introduce myself <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>:
 
 - 🎓 I graduated from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
-- 📚 What do I beleive? Jack of all, Master of some
+- 📚 What do I believe? Jack of all, Master of some
 - 😎 Motto: You can never Lose, you can either Win or Learn.
 - 💻 I am a Web/Blockchain Developer. I am also a Machine and Deep Learning enthusiast.
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer.
