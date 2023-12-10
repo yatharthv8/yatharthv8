@@ -9,8 +9,6 @@
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer.
 - 🎹 I am also a little bit of a pianist as well.
 
-### Link to my <a href="https://drive.google.com/file/d/1DjIMUVqoK86XdYYhwPkW16OQnklQ5DPb/view?usp=sharing" target="_blank">resume</a>.
-
 ---
 
 <details open>
