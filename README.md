@@ -5,35 +5,42 @@
 - 🎓 I graduated from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
 - 📚 What do I believe? Jack of all, Master of some
 - 😎 Motto: You can never Lose, you can either Win or Learn.
-- 💻 I am a Web/Blockchain Developer. I am also a Machine and Deep Learning enthusiast.
+- 💻 I am a Fullstack/Blockchain Developer. I am also a Machine and Deep Learning enthusiast.
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer.
 - 🎹 I am also a little bit of a pianist as well.
 
 ---
 
-<details open>
-  <summary>
-    <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>
-    <b> Languages </b> 
-  </summary>
-  
-  
-  <img align="left" alt="C" width="40px" 
-  src="https://img.icons8.com/color/144/000000/c-programming.png"/>
-  <img align="left" alt="C++" width="40px"
-  src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
-  <img align="left" alt="Python" width="40px" 
-  src="https://img.icons8.com/color/144/000000/python.png"/>
-  <img align="left" alt="HTML" width="40px"  
-  src="https://img.icons8.com/color/144/000000/html-5.png"/>
-  <img align="left" alt="CSS" width="40px" 
-  src="https://img.icons8.com/color/144/000000/css3.png"/>
-  <img align="left" alt="Javascript" width="40px" 
-  src="https://img.icons8.com/color/144/000000/javascript.png"/>
-  <img align="left" alt="Solidity" width="40px" 
-  src="https://img.icons8.com/ios/40/000000/solidity.png"/>
-                                                              
-  
+### Worked With:
+
+Languages:
+
+<div align="center">
+
+<code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/typescript-%234ea94b.svg?&style=for-the-badge&logo=typescript-&logoColor=white&color=ff4d4d" /></code>
+<code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+ 
+</div>
+
+Technologies:
+
+<div align="center">
+
+<code><img height="40" src="https://img.shields.io/badge/vue-%234ea94b.svg?&style=for-the-badge&logo=vue&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+<code><img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" /></code>
+ 
+</div>
+ 
+Databases:
+ 
+<div align="center">
+ 
+<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=ff4d4d" /></code>
+ 
+</div>
 
   <br />
   <br />
@@ -41,51 +48,26 @@
   
 </details>
 
-<details open> 
-  <summary> 
-    <img width="15px" src="https://img.icons8.com/material-sharp/24/000000/wrench.png"/> 
-    <b> Tools </b> 
-  </summary>
+---
 
-  <img align="left" alt="Visual Studio Code" width="40px" 
-  src="https://img.icons8.com/fluent/140/000000/visual-studio-code-2019.png"/>
-  <img align="left" alt="Sublime Text" width="40px"
-  src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
-  <img align="left" alt="npm" width="40px" 
-  src="https://img.icons8.com/color/48/000000/npm.png"/>
-  <img align="left" alt="Git" width="40px" 
-  src="https://img.icons8.com/color/144/000000/git.png"/>
-  
-  <br />
-  <br />
-  <br />
-  
-</details>
+### GitHub Stats:
 
-<details open>
-  <summary>
-    <img width="15px" src="https://img.icons8.com/wired/24/000000/idea.png"/>
-    <b> Technologies </b>
-  </summary>
-
-  <img align="left" alt="VueJs" 
-  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
-  <img align="left" alt="Truffle" 
-  src="https://api.iconify.design/logos/truffle-icon.svg?width=40&height=40"/> 
-  <img align="left" alt="Ganache"
-  src="https://api.iconify.design/logos/ganache-icon.svg?width=40&height=40"/>   
-  <img align="left" alt="Github" 
-  src="https://img.icons8.com/glyph-neue/50/undefined/github.png"/>                                                                           
-  <img align="left" alt="Linux" 
-  src="https://api.iconify.design/logos/linux-tux.svg?width=40&height=40"/>                                                          
+<p align="centre">
+ 
+ <div align = "center">
   
-
-  <br />
-  <br />
-  <br />
+  <a href="https://github.com/yatharthv8">
+  <img width="49%" title="Redirect's to Yatharth's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthv8&theme=great-gatsby&hide_border=false" /></a>
   
-</details>
-                                                       
+  </div>
+
+ <div align = "center">
+  <a href ="https://github.com/karthikeysaxena2507" title="Redirect's to karthikey's Github">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthv8&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact"/></a>
+  </div>
+
+</p>     
+
 ---
 
 ### Find Me On:
@@ -95,8 +77,5 @@
  </a>
  <a href="https://www.instagram.com/yatharth8v/"  target="_blank">
    <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60">
- </a>
- <a href=""  target="_blank">
-   <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60">
  </a>
 </p>
